@@ -86,7 +86,7 @@ else{
 		    	<a href="#registroAlumnos" class="btn btn-primary btn-md " id="Visualizar" data-toggle="modal"><i class="fas fa-sign-in-alt"></i> Registrar</a>&nbsp;		    
 		       	<button id="btnDescargarExcel" class="btn btn-success btn-md">Excel</button>&nbsp;  	
 		       	<button id="descargarPDF" class="btn btn-warning btn-md">PDF</button> &nbsp;
-		       	<a href="stocks.xml" class="btn btn-warning btn-md">XML</a> &nbsp;
+		       	<a href="genXML.jsp" class="btn btn-warning btn-md">XML</a> &nbsp;
 	         </div>
 	         <br> 
 	         <br>
